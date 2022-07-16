@@ -15,3 +15,11 @@ Download `MountMorpher.zip` in releases: https://github.com/andersblomqvist/moun
 Default old mount ID is 14376 (Swift White Mech. Strider)
 
 See: https://wow.gamepedia.com/MountID for all possible mount display IDs
+
+# Windows Defender Virus Warning
+
+Due to this injects code into another process and calls potentially dangerous functions, windows defender will flag the Injector.exe as virus. This can be avoided by setting a exclusion in the Windows Defender to avoid it deleting potentially dangerous files.
+
+How to add an exclusion:
+https://support.microsoft.com/en-gb/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26
+
