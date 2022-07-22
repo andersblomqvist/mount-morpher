@@ -1,7 +1,7 @@
 # Mount Morpher - Wow 3.3.5
 Transmog your mount in Wow 3.3.5
 
-Download `MountMorpher.zip` in releases: https://github.com/andersblomqvist/mount-morpher/releases/tag/1.0 
+Download `MountMorpher.zip` in releases: https://github.com/andersblomqvist/mount-morpher/releases/tag/1.0-Release-build
 
 #### HOW TO
 * Start WoW
